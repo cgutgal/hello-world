@@ -1,3 +1,3 @@
 # hello-world
-First test repository
-This is first test
+First test repository to check features
+
